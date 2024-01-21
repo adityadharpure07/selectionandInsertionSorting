@@ -1,0 +1,8 @@
+Q1.
+Answer: b)In each iteration we find the index of the minimum element in the unsorted part of the array.
+
+Q2.
+Answer: d)array sorted in reverse order.
+
+Q3.
+Answer: c)4.
